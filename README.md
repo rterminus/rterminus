@@ -15,8 +15,8 @@ technology student exploring the intersection of software development, mathemati
 📊 **github stats**
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" height="150" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f" height="150" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rterminus&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" height="150" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rterminus&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f" height="150" alt="top languages" />
 </div>
 
 📫 **contact**
