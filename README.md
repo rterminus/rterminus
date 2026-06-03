@@ -23,7 +23,7 @@ technology student exploring the intersection of software development, mathemati
 
 📫 **contact**
 
-- email: [luizrenanpontes@gmail.com]
-- linkedin: [https://linkedin.com/in/renanspontes]
+- email: luizrenanpontes@gmail.com
+- linkedin: https://linkedin.com/in/renanspontes
 
 `terminus@imd-ufrn:~$ _`
