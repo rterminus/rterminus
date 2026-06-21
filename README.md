@@ -5,7 +5,7 @@ technology student exploring the intersection of software development, mathemati
 💻 **stack & interests**
 
 - **systems & languages:** c, c++, javascript
-- **web development:** currently going through the odin project
+- **web development:** currently @ PotiCode/UFRN developing web applications
 - **exploration:** information security and cybersecurity
 
 🚀 **current focus**
