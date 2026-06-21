@@ -1,18 +1,20 @@
 `terminus@imd-ufrn:~$ bat README.md`
 
-technology student exploring the intersection of software development, mathematics, and security. building a solid foundation in problem-solving and efficient coding, balancing low-level languages and modern web development.
+information technology student at ufrn exploring the intersection of software development, discrete mathematics, and security. building a solid foundation in problem-solving, balancing low-level programming with modern web development.
 
-### **stack & interests**
+### **stack & tools**
 
-- **systems & languages:** c, c++, javascript
-- **web development:** currently @ PotiCode/UFRN developing web applications
-- **exploration:** information security and cybersecurity
+- **languages:** c, c++, javascript, html, css
+- **environment:** linux, neovim, tmux
+- **web development:** web developer @ PotiCode (Astro, Tailwind, React, Node.js)
 
 ### **current focus**
 
-- expanding my web development skills and building full-stack projects
-- diving deeper into low-level programming and system fundamentals
-- studying mathematical logic and its applications in computing
+- engineering modern, responsive web applications as a developer at PotiCode
+- serving as a teaching assistant for combinatorics (discrete mathematics) at IMD/UFRN
+- deepening my programming skills by building fully-fledged software in c++
+  with oop practices
+- exploring information security and cybersecurity
 
 ### **github stats**
 
@@ -21,9 +23,10 @@ technology student exploring the intersection of software development, mathemati
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rterminus&layout=compact&hide_border=true&exclude_repo=dotfiles&bg_color=00000000&title_color=ffffff&text_color=9f9f9f" height="150" alt="top languages" />
 </div>
 
-### **contact**
+### **contact & links**
 
 - email: luizrenanpontes@gmail.com
 - linkedin: https://linkedin.com/in/renanspontes
+- codeberg: https://codeberg.org/rterminus
 
 `terminus@imd-ufrn:~$ _`
