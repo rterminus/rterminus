@@ -1,12 +1,14 @@
-`terminus@imd-ufrn:~$ bat README.md`
+`terminus@imd_dimap-ufrn:~$ bat README.md`
 
-information technology student at ufrn exploring the intersection of software development, discrete mathematics, and security. building a solid foundation in problem-solving, balancing low-level programming with modern web development.
+information technology student at ufrn exploring the intersection of software
+development, discrete mathematics, and security. building a solid foundation in
+problem-solving, balancing low-level programming with modern web development.
 
 ### **stack & tools**
 
-- **languages:** c, c++, javascript, html, css
+- **languages:** c, c++, typescript
+- **web ecosystem:** react, next.js, astro, tailwind css
 - **environment:** linux, neovim, tmux
-- **web development:** web developer @ PotiCode (Astro, Tailwind, React, Node.js)
 
 ### **current focus**
 
@@ -29,4 +31,4 @@ information technology student at ufrn exploring the intersection of software de
 - linkedin: https://linkedin.com/in/renanspontes
 - codeberg: https://codeberg.org/rterminus
 
-`terminus@imd-ufrn:~$ _`
+`terminus@imd_dimap-ufrn:~$ _`
