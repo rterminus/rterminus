@@ -38,7 +38,7 @@
 
 ### github stats
 
-![Metrics](https://metrics.lecoq.io/rterminus?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1)
+![GitHub stats](https://github-readme-insight-terminal-asci.vercel.app/svg?user=rterminus&theme=mac)
 
 ---
 
