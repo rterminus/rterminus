@@ -6,17 +6,17 @@ problem-solving, balancing low-level programming with modern web development.
 
 ### **stack & tools**
 
-- **languages:** c, c++, typescript
+- **languages:** java, typescript, javascript, c, c++
 - **web ecosystem:** react, next.js, astro, tailwind css
 - **environment:** linux, neovim, tmux
 
 ### **current focus**
 
 - engineering modern, responsive web applications as a developer at PotiCode
-- serving as a teaching assistant for combinatorics (discrete mathematics) at IMD/UFRN
-- deepening my programming skills by building fully-fledged software in c++
-  with oop practices
+- deepening my programming skills by building fully-fledged oop softwares in c++
+  and java
 - exploring information security and cybersecurity
+- serving as a teaching assistant for combinatorics (discrete mathematics) at IMD/UFRN
 
 ### **github stats**
 
@@ -31,4 +31,4 @@ problem-solving, balancing low-level programming with modern web development.
 - linkedin: https://linkedin.com/in/renanspontes
 - codeberg: https://codeberg.org/rterminus
 
-`terminus@imd_dimap-ufrn:~$ _`
+`terminus@imd_dimap-ufrn:~$ exit`
