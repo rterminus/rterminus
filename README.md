@@ -38,7 +38,7 @@
 
 ### github stats
 
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=rterminus&theme=dracula&headerStyle=retro&hostname=imd_dimap-ufrn&typingSpeed=80)](https://github.com/rterminus)
+![Metrics](https://metrics.lecoq.io/rterminus?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1)
 
 ---
 
