@@ -38,7 +38,7 @@
 
 ### github stats
 
-![GitHub stats](https://github-readme-insight-terminal-asci.vercel.app/svg?user=rterminus&theme=mac)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rterminus&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
