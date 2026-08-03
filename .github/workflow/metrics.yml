@@ -1,6 +1,9 @@
 name: Metrics
 on:
   push: {branches: ["master", "main"]}
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -11,27 +14,27 @@ jobs:
     steps:
       - name: Install Iosevka font
         run: sudo apt-get update && sudo apt-get install -y fonts-iosevka
+        
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Base options
-        user: rterminus
-        template: classic
-        base: header, activity, community, repositories, metadata
-        config_timezone: America/Sao_Paulo
-
-        plugin_isocalendar: yes
-        plugin_isocalendar_duration: full-year
-
-        plugin_languages: yes
-        plugin_languages_details: percentage
-
-        plugin_achievements: yes
-        plugin_achievements_display: compact
-
-        plugin_habits: yes
-        plugin_habits_facts: yes
-
-        extras_css: |
-          * { font-family: 'Iosevka', monospace !important; }
+          
+          user: rterminus
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          
+          extras_css: |
+            * { font-family: 'Iosevka', monospace !important; }
