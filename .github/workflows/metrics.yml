@@ -23,9 +23,29 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_details: percentage
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_habits: yes
-          plugin_habits_facts: yes
           extras_css: |
             * { font-family: monospace !important; }
+            
+            .field { color: #9f9f9f !important; }
+            .field-name { color: #ffffff !important; }
+            .field-value { color: #ffffff !important; }
+            
+            .calendar { color: #9f9f9f !important; }
+            .calendar .day { stroke: #1a1a1a !important; }
+            .calendar .day.level-0 { fill: #1a1a1a !important; }
+            .calendar .day.level-1 { fill: #4a4a4a !important; }
+            .calendar .day.level-2 { fill: #6a6a6a !important; }
+            .calendar .day.level-3 { fill: #8a8a8a !important; }
+            .calendar .day.level-4 { fill: #aaaaaa !important; }
+            
+            .language-bar { stroke: #333333 !important; }
+            .language-bar .bar { stroke: #9f9f9f !important; }
+            
+            .stat { color: #ffffff !important; }
+            .stat .number { color: #ffffff !important; }
+            
+            .activity { color: #9f9f9f !important; }
+            .repository { color: #9f9f9f !important; }
+            .repository .name { color: #ffffff !important; }
+            
+            .dot { fill: #ffffff !important; }
