@@ -1,34 +1,52 @@
 `terminus@imd_dimap-ufrn:~$ bat README.md`
 
-information technology student at ufrn exploring the intersection of software
-development, discrete mathematics, and security. building a solid foundation in
-problem-solving, balancing low-level programming with modern web development.
+## hey, i'm renan.
 
-### **stack & tools**
+> information technology student @ ufrn.  
+> i combine systems-level engineering (Java, C/C++) with modern web architectures (React, Next.js) to build scalable, efficient solutions.
 
-- **languages:** java, typescript, javascript, c, c++
-- **web ecosystem:** react, next.js, astro, tailwind css
-- **environment:** linux, neovim, tmux
+- teaching assistant for Combinatorics (Discrete Mathematics) at IMD/UFRN
+- developer at PotiCode (UFRN's Computer Science Junior Enterprise)
+- studying binary exploitation, reverse engineering, and CTF challenges
 
-### **current focus**
+---
 
-- engineering modern, responsive web applications as a developer at PotiCode
-- deepening my programming skills by building fully-fledged oop softwares in c++
-  and java
-- exploring information security and cybersecurity
-- serving as a teaching assistant for combinatorics (discrete mathematics) at IMD/UFRN
+### tech stack
 
-### **github stats**
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-000000?style=flat-square&logo=neovim&logoColor=white)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rterminus&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&count_private=true" height="150" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rterminus&layout=compact&hide_border=true&exclude_repo=dotfiles&bg_color=00000000&title_color=ffffff&text_color=9f9f9f" height="150" alt="top languages" />
-</div>
+---
 
-### **contact & links**
+### featured projects
 
-- email: luizrenanpontes@gmail.com
-- linkedin: https://linkedin.com/in/renanspontes
-- codeberg: https://codeberg.org/rterminus
+- CTF Tracker — Full-stack app (React, Node, Express, Zod) for documenting and
+  tracking vulnerabilities with strict data validation.
+- GitHub Profile Explorer — Web app using Astro + React hydration to consume the
+  GitHub RESTful API.
+
+---
+
+### github stats
+
+[![rterminus's GitHub stats](https://github-readme-stats.vercel.app/api?username=rterminus&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=58a6ff&include_all_commits=true)](https://github.com/rterminus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rterminus&layout=compact&hide_border=true&exclude_repo=dotfiles&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f)](https://github.com/rterminus)
+
+---
+
+### contact & links
+
+- email: [luizrenanpontes@gmail.com](luizrenanpontes@gmail.com)
+- linkedin: linkedin.com/in/renanspontes
+- codeberg: codeberg.org/rterminus
 
 `terminus@imd_dimap-ufrn:~$ exit`
