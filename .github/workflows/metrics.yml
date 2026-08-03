@@ -7,14 +7,9 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
     permissions:
       contents: write
     steps:
-      - name: Install Iosevka font
-        run: sudo apt-get update && sudo apt-get install -y fonts-iosevka
-        
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -22,13 +17,3 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          extras_css: |
-            * { font-family: 'Iosevka', monospace !important; }
