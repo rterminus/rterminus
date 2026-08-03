@@ -38,7 +38,7 @@
 
 ### github stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rterminus&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Metrics](https://raw.githubusercontent.com/rterminus/rterminus/master/github-metrics.svg)
 
 ---
 
