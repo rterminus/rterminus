@@ -38,20 +38,7 @@
 
 ### github stats
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/rterminus">
-        <img src="https://github-readme-stats.vercel.app/api?username=rterminus&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=58a6ff" alt="GitHub Stats" width="100%"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/rterminus">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rterminus&layout=compact&hide_border=true&exclude_repo=dotfiles&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f" alt="Top Langs" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=rterminus&theme=dracula&headerStyle=retro&hostname=imd_dimap-ufrn&typingSpeed=80)](https://github.com/rterminus)
 
 ---
 
