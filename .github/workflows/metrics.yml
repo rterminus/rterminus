@@ -12,13 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Install Iosevka font
-        run: |
-          wget https://github.com/be5invis/Iosevka/releases/latest/download/ttf-iosevka.zip -O /tmp/iosevka.zip
-          sudo mkdir -p /usr/share/fonts/truetype/iosevka
-          sudo unzip /tmp/iosevka.zip -d /usr/share/fonts/truetype/iosevka/
-          sudo fc-cache -fv
-        
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -35,4 +28,4 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           extras_css: |
-            * { font-family: 'Iosevka', monospace !important; }
+            * { font-family: monospace !important; }
