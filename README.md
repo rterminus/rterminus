@@ -45,7 +45,7 @@
 ### contact & links
 
 - email: [luizrenanpontes@gmail.com](luizrenanpontes@gmail.com)
-- linkedin: linkedin.com/in/renanspontes
-- codeberg: codeberg.org/rterminus
+- linkedin: [linkedin.com/in/renanspontes](linkedin.com/in/renanspontes)
+- codeberg: [codeberg.org/rterminus](codeberg.org/rterminus)
 
 `terminus@imd_dimap-ufrn:~$ exit`

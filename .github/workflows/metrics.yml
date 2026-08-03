@@ -17,42 +17,28 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: rterminus
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: America/Sao_Paulo
           
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_isocalendar_style: regular
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
           
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_ignored: dotfiles
           
+          config_padding: 5
+          config_display: compact
+          
           extras_css: |
             * { font-family: monospace !important; }
-            
             .field { color: #9f9f9f !important; }
             .field-name { color: #ffffff !important; }
             .field-value { color: #ffffff !important; }
-            
-            .calendar { color: #9f9f9f !important; }
-            .calendar .day { stroke: #1a1a1a !important; }
             .calendar .day.level-0 { fill: #1a1a1a !important; }
             .calendar .day.level-1 { fill: #4a4a4a !important; }
             .calendar .day.level-2 { fill: #6a6a6a !important; }
             .calendar .day.level-3 { fill: #8a8a8a !important; }
             .calendar .day.level-4 { fill: #aaaaaa !important; }
-            
-            .language-bar { stroke: #333333 !important; }
-            .language-bar .bar { stroke: #9f9f9f !important; }
-            
             .stat { color: #ffffff !important; }
             .stat .number { color: #ffffff !important; }
-            
-            .activity { color: #9f9f9f !important; }
-            .repository { color: #9f9f9f !important; }
-            .repository .name { color: #ffffff !important; }
-            
-            .dot { fill: #ffffff !important; }
-            
-            .section { margin-bottom: 0 !important; padding-bottom: 0 !important; }
