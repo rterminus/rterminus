@@ -29,17 +29,29 @@
 
 ### featured projects
 
-- CTF Tracker — Full-stack app (React, Node, Express, Zod) for documenting and
+- **CTF Tracker** — Full-stack app (React, Node, Express, Zod) for documenting and
   tracking vulnerabilities with strict data validation.
-- GitHub Profile Explorer — Web app using Astro + React hydration to consume the
-  GitHub RESTful API.
+- **GitHub Profile Explorer** — Web app using Astro + React hydration to consume
+  the GitHub RESTful API.
 
 ---
 
 ### github stats
 
-[![rterminus's GitHub stats](https://github-readme-stats.vercel.app/api?username=rterminus&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=58a6ff&include_all_commits=true)](https://github.com/rterminus)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rterminus&layout=compact&hide_border=true&exclude_repo=dotfiles&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f)](https://github.com/rterminus)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/rterminus">
+        <img src="https://github-readme-stats.vercel.app/api?username=rterminus&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=58a6ff" alt="GitHub Stats" width="100%"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/rterminus">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rterminus&layout=compact&hide_border=true&exclude_repo=dotfiles&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f" alt="Top Langs" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
