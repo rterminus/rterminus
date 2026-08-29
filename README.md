@@ -28,10 +28,12 @@
 
 ### featured prjects
 
-- **CTF Tracker** — Full-stack app (React, Nde, Express, Zod) for documenting
-  and tracking vulnerabilities.
-- **GitHub Profile Explorer** — Web app using Astro + React hydration to
-  consume the GitHub RESTful API.
+- [**Mini Carver**](https://github.com/rterminus/mini-carver) - A lightweight C++
+  CLI tool to recover lost media files inside binary dumps and disk images.
+- [**CTF Tracker**](https://github.com/rterminus/ctf-tracker) — Full-stack app
+  (React, Node, Express, Zod) for documenting and tracking vulnerabilities.
+- [**GitHub Profile Explorer**](https://github.com/rterminus/github-explorer) —
+  Web app using Astro + React hydration to consume the GitHub RESTful API.
 
 ---
 
