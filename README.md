@@ -1,6 +1,6 @@
 `terminus@imd_dimap-ufrn:~$ bat README.md`
 
-## i'm renan pontes
+## i'm renan pontes.
 
 > information technology student @ ufrn.  
 > systems-level engineering (Java, C/C++) + modern web (React, Astro).
@@ -15,12 +15,12 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-000000?style=flat-square&logo=neovim&logoColor=white)
 
